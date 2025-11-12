@@ -88,7 +88,7 @@ The system provides **interactive visualization** and **high-risk notifications*
 ---
 
 ## Documentation 
-- [Research Poster (Conference Version)](poster/POSTER_Bayu_Rizqi_Pratama.pdf)  
+- [Research Poster (Conference Version)](poster/Poster.jpg)  
 
 ---
 
