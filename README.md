@@ -12,7 +12,7 @@ The system provides **interactive visualization** and **high-risk notifications*
 
 ---
 
-## Role: System Analyst & Business Analytics Developer
+## Role: System Analyst & Business Analytics
 - Conducted **business process analysis** and identified inefficiencies in manual contract tracking (Excel-based).  
 - Defined **system requirements** and functional specifications using **SDLC (Waterfall)** methodology.  
 - Designed the **system architecture**, **use case diagram**, and **data flow model**.  
