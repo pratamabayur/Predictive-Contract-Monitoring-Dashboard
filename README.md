@@ -12,7 +12,7 @@ The system provides **interactive visualization** and **high-risk notifications*
 
 ---
 
-## Role: System Analyst & Business Analytics Developer
+## Role: System Analyst & Business Analytics
 - Conducted **business process analysis** and identified inefficiencies in manual contract tracking (Excel-based).  
 - Defined **system requirements** and functional specifications using **SDLC (Waterfall)** methodology.  
 - Designed the **system architecture**, **use case diagram**, and **data flow model**.  
@@ -87,23 +87,14 @@ The system provides **interactive visualization** and **high-risk notifications*
 
 ---
 
-## Documentation
-- [📄 Research Paper (IEEE Format)](paper/Paper_Bayu_Rizqi_Pratama.pdf)  
-- [🧠 Research Poster (Conference Version)](poster/POSTER_Bayu_Rizqi_Pratama.pdf)  
-- [📘 Portfolio Summary (System Analyst Role)](portfolio_summary.pdf)
+## Documentation 
+- [Research Poster (Conference Version)](poster/POSTER_Bayu_Rizqi_Pratama.pdf)  
 
 ---
 
 ## Conclusion
 This project successfully bridges **Business Analytics** and **System Analysis**, demonstrating how predictive analytics can be embedded into operational workflows through structured system design.  
 The resulting dashboard offers a practical model for **data-driven decision support**, applicable to future IT governance, ERP monitoring, and procurement systems.
-
----
-
-## Contact
-**Bayu Rizqi Pratama**  
-📧 rizqipratamalbayu@gmail.com  
-💼 [LinkedIn](https://linkedin.com) | 🌐 [GitHub](https://github.com)
 
 > _“Transforming business insights into actionable systems through analytics and design.”_
 
