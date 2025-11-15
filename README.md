@@ -67,7 +67,9 @@ This system provides interactive visualizations and high-risk alerts, enabling t
 
 | Model | Accuracy | F1 (Low) | F1 (Medium) | F1 (High) | Rule-Based Alignment |
 |--------|-----------|-----------|--------------|------------|----------------------|
+| Random Forest (Iteration 1) | 73.3% | 0.67 | 0.15 | 0.84 | 86.1% |
 | Random Forest (Iteration 2) | 81.7% | 0.64 | 0.62 | 0.89 | 82.7% |
+| Random Forest (Iteration 3) | 78.3% | 0.53 | 0.62 | 0.86 | 81.8% |
 | Random Forest (Iteration 4) | 68.3% | 0.60 | 0.45 | 0.77 | **92.3%** |
 
 - **Strong correlation (r = 0.71)** between contract value and priority classification.  
