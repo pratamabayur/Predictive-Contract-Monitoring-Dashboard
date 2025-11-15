@@ -21,11 +21,11 @@ This system provides interactive visualizations and high-risk alerts, enabling t
 ---
 
 ## Role: System Analyst & Business Analytics
-- Conducted **business process analysis** and identified inefficiencies in manual contract tracking (Excel-based).  
-- Defined **system requirements** and functional specifications using **SDLC (Waterfall)** methodology.  
-- Designed the **system architecture**, **use case diagram**, and **data flow model**.  
-- Implemented predictive classification using **Random Forest** integrated with **Streamlit** and **Google Sheets**.  
-- Conducted **system evaluation** through accuracy metrics and user feedback from the IT PMA team.
+- Conducting business process analysis and identifying root causes in manual contract tracking (Excel-based).
+- Determining system requirements and functional specifications using the SDLC (Waterfall) methodology.
+- Designing system architecture, use case diagrams, and data flow models.
+- Implement predictive classification using Random Forest integrated with Streamlit and Google Sheets.
+- Evaluate the system through accuracy metrics and user feedback from the PMA IT team.
 
 ---
 
