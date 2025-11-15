@@ -6,6 +6,16 @@ The project applies **machine learning (Random Forest)** and **interactive visua
 
 ---
 
+---
+
+## Authors:
+Raihan Ardian Arief Hartono - 2502060343
+Bayu Rizqi Pratama - 2502038116
+Hanalda Bunga Permata - 2502039384
+Ilona Irena Gutandjala S.Kom., M.MSI - D6208
+
+---
+
 ## Project Objective
 To design and develop a **predictive analytics dashboard** that automates the classification of IT contract risks based on contract duration and expiration date.  
 The system provides **interactive visualization** and **high-risk notifications**, enabling the IT Division to monitor contracts proactively and support **data-driven decision-making**.
