@@ -98,11 +98,11 @@ This system provides interactive visualizations and high-risk alerts, enabling t
 
 ## Documentation 
 - https://drive.google.com/file/d/1GuAnPc116wLy8czlikL17pjkVPRrsnK3/view?usp=sharing 
-- ![UI 1](images/poster_dashboard.png)
-- ![UI 1](images/poster_dashboard.png)
-- ![UI 1](images/poster_dashboard.png)
-- ![UI 1](images/poster_dashboard.png)
-- ![UI 1](images/poster_dashboard.png)
+- ![UI 1](UI_Streamlit/UI_1.png)
+- ![UI 2](UI_Streamlit/UI_2.png)
+- ![UI 3](UI_Streamlit/UI_3.png)
+- ![UI 4](UI_Streamlit/UI_4.png)
+- ![UI 5](UI_Streamlit/UI_5.png)
 
 ---
 
