@@ -97,7 +97,7 @@ This system provides interactive visualizations and high-risk alerts, enabling t
 ---
 
 ## Documentation 
-- [Research Poster (Conference Version)](Poster.jpg)  
+- https://drive.google.com/file/d/1GuAnPc116wLy8czlikL17pjkVPRrsnK3/view?usp=sharing 
 
 ---
 
