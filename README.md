@@ -30,12 +30,11 @@ This system provides interactive visualizations and high-risk alerts, enabling t
 ---
 
 ## Methodology: SDLC (Waterfall Model)
-
-1. **Planning:** Identified pain points in the manual monitoring workflow.  
-2. **Analysis:** Mapped the as-is process, performed **root cause analysis** using a Fishbone diagram.  
-3. **Design:** Developed system architecture and user interface wireframes.  
-4. **Implementation:** Built the Streamlit dashboard with Python and integrated the Random Forest model.  
-5. **Testing & Evaluation:** Conducted user testing, confusion matrix evaluation, and cross-validation.
+1. Planning: Identifying key issues in the manual monitoring workflow.
+2. Analysis: Mapping existing processes, conducting root cause analysis using Fishbone diagrams.
+3. Design: Developing system architecture and user interface sketches.
+4. Implementation: Building Streamlit dashboards with Python and integrating Random Forest models.
+5. Testing & Evaluation: Conducting user testing, confusion matrix evaluation, and cross-validation.
 
 ---
 
