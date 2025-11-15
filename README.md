@@ -15,8 +15,8 @@ The project applies **machine learning (Random Forest)** and **interactive visua
 ---
 
 ## Project Objective
-To design and develop a **predictive analytics dashboard** that automates the classification of IT contract risks based on contract duration and expiration date.  
-The system provides **interactive visualization** and **high-risk notifications**, enabling the IT Division to monitor contracts proactively and support **data-driven decision-making**.
+To design and develop a predictive analytics dashboard that automates the classification of IT contract risks based on contract duration, contract type, and contract value.
+This system provides interactive visualizations and high-risk alerts, enabling the IT Division to proactively monitor contracts and support data-driven decision making.
 
 ---
 
