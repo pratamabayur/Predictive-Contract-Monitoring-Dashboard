@@ -6,13 +6,11 @@ The project applies **machine learning (Random Forest)** and **interactive visua
 
 ---
 
----
-
 ## Authors:
-Raihan Ardian Arief Hartono - 2502060343
-Bayu Rizqi Pratama - 2502038116
-Hanalda Bunga Permata - 2502039384
-Ilona Irena Gutandjala S.Kom., M.MSI - D6208
+- Raihan Ardian Arief Hartono - 2502060343
+- Bayu Rizqi Pratama - 2502038116
+- Hanalda Bunga Permata - 2502039384
+- Ilona Irena Gutandjala S.Kom., M.MSI - D6208
 
 ---
 
