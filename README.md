@@ -77,13 +77,6 @@ This system provides interactive visualizations and high-risk alerts, enabling t
 
 ---
 
-
-
----
-
-
----
-
 ## Results & Evaluation
 
 | Model | Accuracy | F1 (Low) | F1 (Medium) | F1 (High) | Rule-Based Alignment |
@@ -96,8 +89,6 @@ This system provides interactive visualizations and high-risk alerts, enabling t
 - **Strong correlation (r = 0.71)** between contract value and priority classification.  
 - Random Forest model demonstrated **reliable predictive accuracy** and consistent results across validation sets.  
 - User evaluation confirmed **dashboard usability** and **relevance to operational workflow**.  
-
----
 
 ---
 
@@ -117,7 +108,6 @@ This system provides interactive visualizations and high-risk alerts, enabling t
   ![UI 3](UI%20Streamlit/UI%203.png)
   ![UI 4](UI%20Streamlit/UI%204.png)
   ![UI 5](UI%20Streamlit/UI%205.png)
-
 
 ---
 
