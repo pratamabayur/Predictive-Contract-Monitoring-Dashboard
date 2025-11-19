@@ -65,6 +65,22 @@ This system provides interactive visualizations and high-risk alerts, enabling t
 
 ## Design System Architecture & Diagrams
 
+- Proses Bisnis Existing Register Kontrak
+  ![UI 1](UI%20Streamlit/UI%201.png)
+
+- Proses Bisnis Existing Monitoring Kontrak
+  ![UI 1](UI%20Streamlit/UI%201.png)
+  
+- Use Case Diagram
+  ![UI 1](UI%20Streamlit/UI%201.png)
+  
+- Activity Diagram
+  ![UI 1](UI%20Streamlit/UI%201.png)
+
+- Sequence Diagram
+  ![UI 1](UI%20Streamlit/UI%201.png)
+
+  
 ---
 
 ## System Architecture Overview
