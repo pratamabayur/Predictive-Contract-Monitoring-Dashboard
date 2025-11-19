@@ -77,13 +77,13 @@ This system provides interactive visualizations and high-risk alerts, enabling t
 ## Design System Architecture & Diagrams
   
 - Use Case Diagram
-  ![UI 1](UI%20Streamlit/UI%201.png)
+  ![UCD](Diagrams/UCD.png)
   
 - Activity Diagram
-  ![UI 1](UI%20Streamlit/UI%201.png)
+  ![AD](Diagrams/AD.png)
 
 - Sequence Diagram
-  ![UI 1](UI%20Streamlit/UI%201.png)
+  ![SD](Diagrams/SD.png)
 
   
 ---
