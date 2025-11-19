@@ -38,6 +38,10 @@ This system provides interactive visualizations and high-risk alerts, enabling t
 
 ---
 
+## Design System Architecture & Diagrams
+
+---
+
 ## Tools & Technologies
 
 | Category | Tools |
