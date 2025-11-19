@@ -38,6 +38,16 @@ This system provides interactive visualizations and high-risk alerts, enabling t
 
 ---
 
+## System Features
+- 🔹 **Predictive Classification** — Contract risk level: *High*, *Medium*, *Low* using Random Forest.  
+- 🔹 **Dual-Model System** — Comparison between *rule-based* and *machine learning*-based classification.  
+- 🔹 **Interactive Dashboard** — Contract filtering by vendor, type, and risk category.  
+- 🔹 **Visualization & Reporting** — Charts and “Top 50 High-Priority Contracts” table.  
+- 🔹 **Email Notification System** — Automatic alerts for expiring or high-risk contracts.  
+- 🔹 **Google Sheets Integration** — For both input and output data management.
+
+---
+
 ## Tools & Technologies
 
 | Category | Tools |
@@ -53,13 +63,17 @@ This system provides interactive visualizations and high-risk alerts, enabling t
 
 ---
 
-## System Features
-- 🔹 **Predictive Classification** — Contract risk level: *High*, *Medium*, *Low* using Random Forest.  
-- 🔹 **Dual-Model System** — Comparison between *rule-based* and *machine learning*-based classification.  
-- 🔹 **Interactive Dashboard** — Contract filtering by vendor, type, and risk category.  
-- 🔹 **Visualization & Reporting** — Charts and “Top 50 High-Priority Contracts” table.  
-- 🔹 **Email Notification System** — Automatic alerts for expiring or high-risk contracts.  
-- 🔹 **Google Sheets Integration** — For both input and output data management.
+## Design System Architecture & Diagrams
+
+---
+
+## System Architecture Overview
+**Core Components:**
+1. **Data Input Module** – Connects to Google Sheets and retrieves contract datasets.  
+2. **Preprocessing Module** – Performs label encoding, SMOTE balancing, and noise injection.  
+3. **Classification Engine** – Executes both Rule-Based and Random Forest prediction models.  
+4. **Visualization & Alert Module** – Displays results on Streamlit dashboard and sends email alerts.  
+5. **Output Module** – Stores predictions and evaluation results back to Google Sheets.
 
 ---
 
@@ -78,16 +92,6 @@ This system provides interactive visualizations and high-risk alerts, enabling t
 
 ---
 
-## System Architecture Overview
-**Core Components:**
-1. **Data Input Module** – Connects to Google Sheets and retrieves contract datasets.  
-2. **Preprocessing Module** – Performs label encoding, SMOTE balancing, and noise injection.  
-3. **Classification Engine** – Executes both Rule-Based and Random Forest prediction models.  
-4. **Visualization & Alert Module** – Displays results on Streamlit dashboard and sends email alerts.  
-5. **Output Module** – Stores predictions and evaluation results back to Google Sheets.
-
----
-
 ## Key Contributions
 - Designed and implemented an **end-to-end predictive contract monitoring system** aligned with IT governance principles.  
 - Demonstrated **integration of business rules and machine learning** for practical decision support.  
@@ -97,7 +101,13 @@ This system provides interactive visualizations and high-risk alerts, enabling t
 ---
 
 ## Documentation 
-- https://drive.google.com/file/d/1GuAnPc116wLy8czlikL17pjkVPRrsnK3/view?usp=sharing 
+- https://drive.google.com/file/d/1GuAnPc116wLy8czlikL17pjkVPRrsnK3/view?usp=sharing
+  
+  ![UI 1](UI%20Streamlit/UI%201.png)
+  ![UI 2](UI%20Streamlit/UI%202.png)
+  ![UI 3](UI%20Streamlit/UI%203.png)
+  ![UI 4](UI%20Streamlit/UI%204.png)
+  ![UI 5](UI%20Streamlit/UI%205.png)
 
 ---
 
