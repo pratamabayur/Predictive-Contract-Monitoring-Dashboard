@@ -38,6 +38,16 @@ This system provides interactive visualizations and high-risk alerts, enabling t
 
 ---
 
+## Analysis (Mapping existing processes)
+
+- Proses Bisnis Existing Register Kontrak
+  ![PBE1](Diagrams/PBE1.png)
+
+- Proses Bisnis Existing Monitoring Kontrak
+  ![PBE2](Diagrams/PBE2.png)
+
+---
+
 ## System Features
 - 🔹 **Predictive Classification** — Contract risk level: *High*, *Medium*, *Low* using Random Forest.  
 - 🔹 **Dual-Model System** — Comparison between *rule-based* and *machine learning*-based classification.  
@@ -64,12 +74,6 @@ This system provides interactive visualizations and high-risk alerts, enabling t
 ---
 
 ## Design System Architecture & Diagrams
-
-- Proses Bisnis Existing Register Kontrak
-  ![PBE1](Diagrams/PBE1.png)
-
-- Proses Bisnis Existing Monitoring Kontrak
-  ![UI 1](UI%20Streamlit/UI%201.png)
   
 - Use Case Diagram
   ![UI 1](UI%20Streamlit/UI%201.png)
