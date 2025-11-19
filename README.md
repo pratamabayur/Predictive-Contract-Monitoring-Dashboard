@@ -77,12 +77,15 @@ This system provides interactive visualizations and high-risk alerts, enabling t
 ## Design System Architecture & Diagrams
   
 - Use Case Diagram
+  
   ![UCD](Diagrams/UCD.png)
   
 - Activity Diagram
+  
   ![AD](Diagrams/AD.png)
 
 - Sequence Diagram
+  
   ![SD](Diagrams/SD.png)
 
   
